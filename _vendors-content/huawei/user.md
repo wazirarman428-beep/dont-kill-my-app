@@ -23,7 +23,8 @@ There is a pre-installed app called system manager which also might kill apps de
 </div>
 
 
-### App Launch on some EMUI 8, 9 and 10 devices (Huawei P20, Huawei P20 Lite, Huawei Mate 10...)
+### App Launch on some EMUI 8, 9 and 10 devices (Huawei 9 prime play
+, Huawei P20 Lite, Huawei Mate 10...)
 
 * *Phone settings > Battery > App launch* and then set your app to “Manage manually” and make sure everything is turned on.
 
